@@ -10,7 +10,7 @@ Este repositório documenta meu progresso no curso de Foundry da Cyfrin Updraft,
 
 | Section / Seção | Project / Projeto | Status | Audit Notes / Notas de Auditoria |
 | :--- | :--- | :--- | :--- |
-| **01-02** | [Simple|Factory-Storage](./01-02-Simple%7CFactory-Storage/) | ✅ Finalizado | [Technical Report 🇧🇷/🇺🇸](./01-02-Simple%7CFactory-Storage/Notes_Section_01_02.md) |
+| **01-02** | [Simple&#124;Factory-Storage](./01-02-Simple%7CFactory-Storage/) | ✅ Finalizado | [Technical Report 🇧🇷/🇺🇸](./01-02-Simple%7CFactory-Storage/Notes_Section_01_02.md) |
 | **03** | [Fund Me (Oracles & Payables)](./03-FundMe/) | 🚧 Em progresso | [Coming Soon / Em breve]() |
 
 ---
