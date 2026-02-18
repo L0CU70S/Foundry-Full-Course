@@ -1,7 +1,7 @@
-# 🛠️ Foundry Full Course - Security & Auditing Journey
-# 🛠️ Foundry Full Course - Jornada de Segurança & Auditoria
+# 🛠️ Foundry Full Course - Security & Auditing Journey / Jornada de Segurança & Auditoria
 
 This repository documents my progress through the Cyfrin Updraft Foundry course, with a specialized focus on Smart Contract security and auditing.
+
 Este repositório documenta meu progresso no curso de Foundry da Cyfrin Updraft, focado em segurança de Smart Contracts e auditoria.
 
 ---
@@ -18,6 +18,7 @@ Este repositório documenta meu progresso no curso de Foundry da Cyfrin Updraft,
 ## 🛡️ Security Mindset / Foco em Auditoria
 
 Unlike a standard development repository, every module here is accompanied by a **Security Lab**, where I analyze:
+
 Diferente de um repositório de desenvolvimento comum, aqui cada módulo é acompanhado de um **Security Lab**, onde analiso:
 
 - **EVM Storage Layout:** Slot optimization and Variable Packing. / Otimização de slots e Variable Packing.
