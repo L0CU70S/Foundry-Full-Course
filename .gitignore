@@ -1,0 +1,27 @@
+# Foundry & Solidity
+out/
+cache/
+broadcast/
+artifacts/
+sync/
+
+# Noir (ZK)
+target/
+vk/
+
+# Python & Slither
+venv/
+.venv/
+__pycache__/
+*.pyc
+slither-*.json
+
+
+# lib/ 
+# Nota: Se você quiser que o código das libs apareça no GitHub, não ignore a pasta lib.
+# Mas se quiser que ele aponte para os repositórios originais (submodules), ignore-a.
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+.env
